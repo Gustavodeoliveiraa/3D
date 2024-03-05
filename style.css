@@ -1,0 +1,12 @@
+body { 
+    margin: 0; 
+}
+
+.title {
+    height: 100%;
+}
+
+#container3D { 
+    width: 500px;
+    height: 500px;
+}
